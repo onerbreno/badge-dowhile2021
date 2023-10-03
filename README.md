@@ -10,7 +10,10 @@
 </p>
 
 <p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+  <img alt="License" src="https://img.shields.io/static/v1?label=License&message=MIT&color=49AA26&labelColor=000000">
+    <a href="https://www.linkedin.com/in/breno-dias-holanda/" target="_blank">
+    <img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?style=Social&logo=linkedin&logoColor=white&label=Connect with me!" target="_blank">
+  </a>
 </p>
 
 <br>
