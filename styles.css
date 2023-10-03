@@ -1,0 +1,139 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  --light-grey: #e1e1e6;
+  --grey: #c4c4cc;
+  font-family: 'Roboto', sans-serif;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+
+  color: var(--light-grey);
+  background: url(images/background-desktop.svg) no-repeat center/cover;
+}
+/* 
+@media (max-width: 450px) {
+  body {
+    background: #202024;
+  }
+} */
+
+main {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background: url(images/background-bagde.svg);
+  width: 358px;
+  height: 540px;
+  /* transition: 300ms; */
+}
+
+@media (max-width: 450px) {
+  main {
+    background: url(images/background.svg) no-repeat center/cover;
+    width: 100vw;
+    min-height: 812px;
+    height: 100vh;
+  }
+  #faixa {
+    display: none;
+  }
+
+  #quebra {
+    display: none;
+  }
+}
+
+#faixa {
+  height: 2000px;
+  width: 64px;
+  top: -1981px;
+  position: absolute;
+  background: url(images/faixa.svg) no-repeat center/cover;
+  z-index: 2;
+}
+
+#quebra {
+  position: absolute;
+  background: url(images/quebra.svg) no-repeat center;
+  top: 1rem;
+  width: 80px;
+  height: 8px;
+}
+
+/* Avatar */
+.avatar {
+  margin-top: 2rem;
+  position: relative;
+}
+
+@media (max-width: 450px) {
+  .avatar {
+    margin-top: 0;
+    /* margin-top: 10rem; */
+  }
+}
+
+.avatar span {
+  position: absolute;
+  top: -15px;
+  z-index: 1;
+}
+.avatar > img {
+  height: 11.5rem;
+  width: 10rem;
+  object-fit: cover;
+  clip-path: polygon(50% 0, 100% 25%, 100% 75%, 50% 100%, 0 75%, 0 25%);
+  /* https://bennettfeely.com/clippy/ */
+}
+
+/*
+ Nome e github 
+*/
+h1 {
+  margin-top: 1.5rem;
+}
+
+.container > span {
+  display: flex;
+  justify-content: center;
+  margin-top: 0.2rem;
+}
+.container > span > a {
+  display: flex;
+  gap: 0.75rem;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+  color: var(--grey);
+}
+
+/* Frase */
+.container > p {
+  margin-top: 2rem;
+  width: 300px;
+  word-wrap: break-word;
+}
+
+/* Redes sociais */
+ul {
+  display: flex;
+  justify-content: center;
+  gap: 0.5rem;
+  margin-top: 2.5rem;
+  list-style: none;
+  padding: 0;
+}
+@media (max-width: 450px) {
+  ul {
+    margin-top: 4rem;
+  }
+}
