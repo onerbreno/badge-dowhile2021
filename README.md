@@ -11,7 +11,7 @@
 
 <p align="center">
   <img alt="License" src="https://img.shields.io/static/v1?label=License&message=MIT&color=49AA26&labelColor=000000">
-    <a href="https://www.linkedin.com/in/breno-dias-holanda/" target="_blank">
+  <a href="https://www.linkedin.com/in/breno-dias-holanda/" target="_blank">
     <img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?style=Social&logo=linkedin&logoColor=white&label=Connect with me!" target="_blank">
   </a>
 </p>
@@ -19,7 +19,9 @@
 <br>
 
 <p align="center">
-  <img alt="dev.finances" src=".github/badge-dowhile2021.png" width="100%">
+  <a href="https://onerbreno.github.io/badge-dowhile2021/" target="_blank">
+    <img alt="Badge DoWhile 2021" src=".github/badge-dowhile2021.png" width="100%">
+  </a>
 </p>
 
 ## 🚀 Tecnologias
@@ -33,7 +35,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Badge DoWhile 2021 é uma página estática construída durante o evento DoWhile 2021 da Rocketseat.
+Badge DoWhile 2021 é uma página estática construída durante o evento DoWhile 2021 da Rocketseat. Você pode acessá-la [clicando aqui](https://onerbreno.github.io/badge-dowhile2021/).
 
 ## 🔖 Layout
 
