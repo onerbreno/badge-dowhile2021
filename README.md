@@ -11,9 +11,6 @@
 
 <p align="center">
   <img alt="License" src="https://img.shields.io/static/v1?label=License&message=MIT&color=49AA26&labelColor=000000">
-  <a href="https://www.linkedin.com/in/breno-dias-holanda/" target="_blank">
-    <img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?style=Social&logo=linkedin&logoColor=white&label=Connect with me!" target="_blank">
-  </a>
 </p>
 
 <br>
@@ -44,3 +41,9 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT.
+
+<p> 
+  <a href="https://www.linkedin.com/in/breno-dias-holanda/" target="_blank">
+    <img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?style=Social&logo=linkedin&logoColor=white&label=Conecte-se comigo!" target="_blank">
+  </a>
+</p>
