@@ -32,7 +32,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Badge DoWhile 2021 é uma página estática construída durante o evento DoWhile 2021 da Rocketseat. Você pode acessá-la [clicando aqui](https://onerbreno.github.io/badge-dowhile2021/).
+- Badge DoWhile 2021 é uma página estática construída durante o evento DoWhile 2021 da Rocketseat.
+  
+- Você pode acessá-la [clicando aqui](https://onerbreno.github.io/badge-dowhile2021/).
 
 ## 🔖 Layout
 
@@ -42,7 +44,7 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 
 Esse projeto está sob a licença MIT.
 
-<p> 
+<p align="right"> 
   <a href="https://www.linkedin.com/in/breno-dias-holanda/" target="_blank">
     <img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?style=Social&logo=linkedin&logoColor=white&label=Conecte-se comigo!" target="_blank">
   </a>
